@@ -1,0 +1,7 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    display: block;
+    flex-wrap: wrap;
+    padding-top: 15rem;
+}
